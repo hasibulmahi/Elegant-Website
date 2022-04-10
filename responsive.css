@@ -1,0 +1,10 @@
+
+@media only screen and (max-width:480px) { 
+    
+     
+    .logo, .grid_container, .grid_container .div1,.grid_container .div2,.grid_container .div3,.grid_container .div4,.grid_container .div5,.grid_container .div6, .grid_container_2, .delivery_grid, .content
+    {
+        grid-template-columns: 1fr;
+    }
+     
+}
